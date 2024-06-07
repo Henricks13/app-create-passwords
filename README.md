@@ -33,11 +33,18 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 5. Push para a branch: `git push origin your-feature-name`
 6. Abra um Pull Request
 
+
+#Fotos do projeto rodando
+![pagina inicial](https://github.com/Henricks13/app-create-passwords/assets/128629444/2d99f5b1-8af9-4ff0-b060-0afcfa5d95af)
+
+![PaginaPrincipal](https://github.com/Henricks13/app-create-passwords/assets/128629444/ea887aec-0042-45da-9e19-9571107fb176)
+
+![paginadeSenhas](https://github.com/Henricks13/app-create-passwords/assets/128629444/be4406c6-683e-4b96-bcba-6c8eea44d8c3)
+
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
 
-![paginadeSenhas](https://github.com/Henricks13/app-create-passwords/assets/128629444/f7f9a420-b6f0-4241-9520-1ecf0685088c)
-![PaginaPrincipal](https://github.com/Henricks13/app-create-passwords/assets/128629444/02698698-d426-4b1f-af08-33c406dc9a11)
-![pagina inicial](https://github.com/Henricks13/app-create-passwords/assets/128629444/cc79493e-4444-40fe-b960-473ec8b06db4)
 
