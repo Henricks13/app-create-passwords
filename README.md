@@ -36,3 +36,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
+
+![paginadeSenhas](https://github.com/Henricks13/app-create-passwords/assets/128629444/f7f9a420-b6f0-4241-9520-1ecf0685088c)
+![PaginaPrincipal](https://github.com/Henricks13/app-create-passwords/assets/128629444/02698698-d426-4b1f-af08-33c406dc9a11)
+![pagina inicial](https://github.com/Henricks13/app-create-passwords/assets/128629444/cc79493e-4444-40fe-b960-473ec8b06db4)
+
