@@ -1,22 +1,26 @@
 # app-create-passwords
 Este é um aplicativo React Native que permite aos usuários gerar e salvar senhas. O aplicativo inclui uma tela de login estilizada e uma página inicial onde os usuários podem gerar novas senhas. O aplicativo foi desenvolvido com o objetivo de fornecer uma maneira segura e eficiente de gerenciar senhas.
+Feito 100% com React, Javascript seco!
 
-# Nome do Projeto
+# CreatePasswords
 
 Este é um aplicativo React Native que permite aos usuários gerar e salvar senhas. O aplicativo inclui uma tela de login estilizada e uma página inicial onde os usuários podem gerar novas senhas.
+
+# Necessário
+Baixar o Node.js , um Emulador(Android Studio no meu caso) e ser feliz.
 
 ## Instalação
 
 Para instalar e executar este projeto, você precisará ter Node.js e npm instalados em seu computador. Depois de ter essas dependências instaladas, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/luanss4/your-project.git`
-2. Navegue até o diretório do projeto: `cd your-project`
+1. Clone o repositório: `git clone https://github.com/Henricks13/app-create-passwords`
+2. Navegue até o diretório do projeto: `cd app-create-passwords`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor: `npm start`
 
 ## Uso
 
-Depois de iniciar o servidor, você pode abrir o aplicativo em um emulador ou em seu dispositivo físico. Na tela de login, insira a senha correta para acessar a página inicial. Na página inicial, você pode gerar novas senhas e salvá-las para uso futuro.
+Depois de iniciar o servidor, você pode abrir o aplicativo em um emulador ou em seu dispositivo físico(Instale o Expo Go no celular). Na tela de login, insira a senha correta(" Teste@13 ") para acessar a página inicial. Na página inicial, você pode gerar novas senhas e salvá-las para uso futuro.
 
 ## Contribuição
 
